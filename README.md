@@ -8,3 +8,17 @@
 ## 檔案說明
 
 - `HW1.ipynb`: 畫一個函數圖形 (leaky relu) 並說明
+
+  ### 圖形展示
+
+  ![圖片](screenshots/hw1.png)
+
+- `HW2.ipynb`: 設計並訓練一個全連接 (Fully-Connected) 的深度神經網路 (DNN)，用以進行 MNIST 手寫數字辨識。
+
+  ### 測試效果展示
+
+  實際在測試集上預測效果圖：  
+  <img src="screenshots/hw2.1.png" alt="圖片1" width="49%" height="400px"> <img src="screenshots/hw2.2.png" alt="圖片2" width="49%" height="400px">
+
+  在 gradio 上手繪數字進行測試：  
+  ![圖片三](screenshots/hw2.3.png)
