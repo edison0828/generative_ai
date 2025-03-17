@@ -22,3 +22,5 @@
 
   在 gradio 上手繪數字進行測試：  
   ![圖片三](screenshots/hw2.3.png)
+
+- `HW3.ipynb`: 主題二、研究GAN背後原理，試著用自己的方式解釋Cross Entropy、KL divergence。
