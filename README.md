@@ -24,3 +24,6 @@
   ![圖片三](screenshots/hw2.3.png)
 
 - `HW3.ipynb`: 主題二、研究GAN背後原理，試著用自己的方式解釋Cross Entropy、KL divergence。
+
+- `HW4.ipynb`: 建立自己的 benchmarks 測試不同的 LLM，這邊提出了兩個問題，分別是算字數問題以及經典的電車難題，主要想測試 LLM 的邏輯推理能力。
+
