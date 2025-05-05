@@ -36,3 +36,5 @@
 
 - `HW9.ipynb`: 使用者輸入一份pdf格式的論文，利用大型語言模型 (LLM) 和鏈式思考 (Chain-of-Thought, CoT) 的能力，幫助使用者快速整理並了解研究論文的核心內容和論證邏輯。
 
+- `HW10.ipynb`: 利用Bing 進行文字生圖，生成英雄聯盟角色自拍照。(Diffusion modle)
+
