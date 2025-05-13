@@ -38,3 +38,5 @@
 
 - `HW10.ipynb`: 利用Bing 進行文字生圖，生成英雄聯盟角色自拍照。(Diffusion modle)
 
+- `HW11.ipynb`: 打造自己的圖像生成Web App，利用Prefect Illustrious XL v1.5模型進行文字生圖，生成二次元動漫風格人物圖片。
+
