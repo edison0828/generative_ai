@@ -40,3 +40,5 @@
 
 - `HW11.ipynb`: 打造自己的圖像生成Web App，利用Prefect Illustrious XL v1.5模型進行文字生圖，生成二次元動漫風格人物圖片。
 
+- `HW12.ipynb`: AI 圖像生成創作任務：打造你的 Fooocus Workflow ! 使用fooocus打造動漫人物真人版電影形象照。
+
