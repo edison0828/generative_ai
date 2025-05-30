@@ -42,3 +42,7 @@
 
 - `HW12.ipynb`: AI 圖像生成創作任務：打造你的 Fooocus Workflow ! 使用fooocus打造動漫人物真人版電影形象照。
 
+- `HW13.md`: 期末專案構想：打造一個完全由 AI 扮演玩家的狼人殺模擬器。透過大型語言模型（如 GPT 或 Gemini）驅動角色行為，模擬狼人殺的遊戲流程與心理對抗，觀察 AI 在有限資訊下的推理與決策能力。
+
+- `Final Project.ipynb`: 期末專案實作：AI 狼人殺模擬器 (AI Werewolf Game Simulator)。
+
